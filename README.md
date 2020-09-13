@@ -2,7 +2,7 @@
 
 # Data-Analysis-Using-Python
 
-This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training during 14-Sept-2020 to 26-Sept-2020 Timings 1 PM to 4 PM
+This repository consists of all the files, resources, and recorded session links which are discussed during Data Analysis using Python Online Training during 14-Sept-2020 to 26-Sept-2020 Timings 1 PM to 4 PM
 
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/18fh5a0306kvsr) or → Meeting Id → [261-657-605]
 ### Join into Slack channel for doubt clarifications [Click Here to Join](https://join.slack.com/t/apssdc-community/shared_invite/zt-gxi128ev-AXD~7dgejDOFSMdROkN5RQ)
