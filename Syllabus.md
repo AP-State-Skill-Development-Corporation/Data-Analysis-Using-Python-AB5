@@ -1,6 +1,4 @@
-# Data Analysis Using Python Program
-
-# Data Analysis Using Python Program
+# Data Analysis Using Python 
 
 | Day |                          Topic Name                          | Sub Topics                                                   | Duration (30 Hours) |
 | :---------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :-----------------: |
