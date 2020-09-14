@@ -22,3 +22,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`110`** minutes should attend in **`150` minutes`** session with same login format
 *********************
+
+## Introduction to Data and Data Analysis Using Python (14-Sept-2020)
+## Discussed Concepts:
+
+- Introduction to Data
+- Types of Data in Statistics (Numerical & Categorical)
+- Types of data in real world
+- Introduction to Python
+- Features and Applications of Python
+- Ananconda Software installation for Jupyter Notebook
+
+### [Day1_Introduction to Data and Data Analysis Using Python_Slides](Day01_14Sept2020/Day1_Introduction_Slides.pdf)
+### [Day1_Recorded_Video](https://transcripts.gotomeeting.com/#/s/24399d86eaab3cd53da44d6879b6adc0e7a7a79f55c536d624236382b61fedff)
