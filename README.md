@@ -33,5 +33,20 @@ Everyone should compulsory follow the below instruction in order to get the atte
 - Features and Applications of Python
 - Ananconda Software installation for Jupyter Notebook
 
-### [Day1_Introduction to Data and Data Analysis Using Python_Slides](Day01_14Sept2020/Day1_Introduction_Slides.pdf)
-### [Day1_Recorded_Video](https://transcripts.gotomeeting.com/#/s/24399d86eaab3cd53da44d6879b6adc0e7a7a79f55c536d624236382b61fedff)
+### [[Day1_Introduction to Data and Data Analysis Using Python_Slides]](Day01_14Sept2020/Day1_Introduction_Slides.pdf)
+### [[Day1_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/24399d86eaab3cd53da44d6879b6adc0e7a7a79f55c536d624236382b61fedff)
+
+******************************************************
+
+## Introduction to Python & Conditional Statements (15-Sept-2020)
+
+## Discussed Concepts:
+- Literate Programming
+- Jupyter Notebook Environment
+- Markdown format for documentation
+- Python basics
+- Operators in Python
+- Conditional Statements in python
+
+### Day02 Jupyter Notebook [[.ipynb format]](Day02_15Sept2020/Day02_15Sept2020.ipynb), [[.pdf format]](Day02_15Sept2020/Day02_15Sept2020.pdf)
+### [[Day02 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/438a04908953524b94fd84a9c5a4ca6e73f942f9b0421d86a812b351430f1c5a)
