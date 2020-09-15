@@ -11,9 +11,9 @@ Data Science and analysis is playing the most significant role today covering ev
 
 | Day |                          Topic Name                          | Sub Topics                                                   | Duration |
 | :---------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :-----------------: |
-|      1      |     Introduction to Data and Data Analysis Using Python      | Introduction to Data <br>Types of Data in Statistics (Numerical & Categorical) <br>Types of data in real world<br> |      2.5 hrs.       |
-|      2      |                    Introduction to Python                    | Python Introduction<br/>Literate Programming<br/>Jupyter Notebook Environment<br/>Markdown format for documentation<br/>Python basics<br>Operators in Python |      2.5 hrs.       |
-|      3      |       Conditional Statements Loop and Data Structures        | Conditional Statements<br/>Iterations<br/>Strings<br/>String Functions,String Slicing<br/>Python Data Structures<br/>Lists<br/>List Methods<br/>Tuples<br/>Tuple Methods |      2.5 hrs.       |
+|      1      |     Introduction to Data and Data Analysis Using Python      | Introduction to Data <br>Types of Data in Statistics (Numerical & Categorical) <br>Types of data in real world<br>Python Introduction<br/> |      2.5 hrs.       |
+|      2      |                    Introduction to Python                    | Literate Programming<br/>Jupyter Notebook Environment<br/>Markdown format for documentation<br/>Python basics<br>Operators in Python<br>Conditional Statements in python |      2.5 hrs.       |
+|      3      |       Conditional Statements Loop and Data Structures        | Iterations<br/>Strings<br/>String Functions,String Slicing<br/>Python Data Structures<br/>Lists<br/>List Methods<br/>Tuples<br/>Tuple Methods |      2.5 hrs.       |
 |      4      |          File, Packages and Functional Programming           | Dictionaries<br/>Dictionary Methods<br/>File Handling<br/>Packages and Modules<br/>List & Dictionary Comprehension |      2.5 hrs.       |
 |      5      | Introduction to Data Analysis and <br>Data Manipulation with NumPy | Introduction <br>NumPy Arrays <br>NumPy Basics <br>Math <br>Random <br>Indexing <br>Filtering <br>Statistics <br>Aggregation <br>Saving Data |      2.5 hrs.       |
 |      6      |           Introduction to Pandas and Pandas Series           | Random <br>Indexing <br>Filtering <br>Statistics <br>Aggregation <br>Saving Data<br>Introduction <br>Series |      2.5 hrs.       |
@@ -31,7 +31,7 @@ The main goal of this course is to help students or Faculty to learn, understand
 Students must have Knowlege on Python Programming and Statistics.
 
 ## Hardware Requirements
-- i3 or above Processor is required
+- i3 or above Processor Laptop/Desktop is required
 - 4 GB or above RAM is recommended
 - Good Internet Connectivity
 - OS-Windows 10 is Preferable
