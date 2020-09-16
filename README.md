@@ -50,3 +50,25 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### Day02 Jupyter Notebook [[.ipynb format]](Day02_15Sept2020/Day02_15Sept2020.ipynb), [[.pdf format]](Day02_15Sept2020/Day02_15Sept2020.pdf)
 ### [[Day02 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/438a04908953524b94fd84a9c5a4ca6e73f942f9b0421d86a812b351430f1c5a)
+
+---------
+
+# Day - 3(16-09-2020)
+
+### Topics Discussed:
+- Iterations
+- Strings
+- String Functions,String Slicing
+- Python Data Structures
+- Lists
+- List Methods
+- Tuples
+- Tuple Methods
+- Examples on Each topics
+
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/d033d4bb15e5b2616cafaec2acb3d50957e446e88de7c1d68c2b7000b16cf923)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.ipynb)[.pdf File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.pdf)<br>
+
+------------
