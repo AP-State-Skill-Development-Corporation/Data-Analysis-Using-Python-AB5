@@ -69,6 +69,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Materials
 
 Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/d033d4bb15e5b2616cafaec2acb3d50957e446e88de7c1d68c2b7000b16cf923)<br>
-Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.ipynb)[.pdf File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.pdf)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.ipynb)-->pdf Format [.pdf File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.pdf)<br>
 
 ------------
