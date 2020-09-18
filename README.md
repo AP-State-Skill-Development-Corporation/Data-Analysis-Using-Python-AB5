@@ -72,3 +72,20 @@ Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/d033
 Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.ipynb)-->pdf Format [.pdf File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day03_16Sept2020/16-09-2020%20Day-3.pdf)<br>
 
 ------------
+
+# Day - 4(17-09-2020)
+
+### Topics Discussed:
+- Dictionaries
+- Dictionary Methods
+- File Handling
+- Packages and Modules
+- List & Dictionary Comprehension
+- set
+
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/034b79c8536748b9a5216f30abb5d1f922e4f503b185e0afded8342c46b10600)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day04_17Sept2020/17-09-2020.ipynb)
+
+--------
