@@ -89,3 +89,68 @@ Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/034b
 Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/blob/master/Day04_17Sept2020/17-09-2020.ipynb)
 
 --------
+# Day - 5(18-09-2020)
+
+### Topics Discussed:
+- Data Manipulation with NumPy
+  - Introduction to Numpy
+  - NumPy Arrays
+  - NumPy Basics
+  - Indexing
+  - Math
+
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/1575adb3da72bece2524a101a6c2ff99514e461ab6979108ce397bd9898f7954)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/tree/master/Day5_18sep2020)
+
+--------
+# Day - 6(19-09-2020)
+
+### Topics Discussed:
+-Data Manipulation with NumPy
+  - Different ways to create arrays
+  - Random module
+  - Filtering
+  - Statistics & Aggregation Function in numpy
+  - Saving  and Loading Data
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/7ad4a5b6eaa378d298b4696ab9f784f187116b1160a08bac98f935e08ca6148e)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/tree/master/Day6_19Sep2020)
+
+--------
+# Day - 7(21-09-2020)
+
+### Topics Discussed:
+- Data Analysis with pandas
+  - Introduction Series
+  - Indexing
+  - File I/O
+  - Grouping Features
+  - Filtering
+  - Sorting
+  - statistics
+  - Plotting
+
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/74b80f75b9bef5160a4c0faa2501f0d95ed7f4e7952a3253db302d4d26f1743d)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/tree/master/Day7-21Sep2020)
+
+--------
+# Day - 8(22-09-2020)
+
+### Topics Discussed:
+- Cleaning Data in Python
+  - DataFrame Combining
+  - Working with Duplicates and Missing Values
+  - Filling missing data
+  - Dropping duplicate data
+  - Which values should be replace with missing values based on data
+
+### Materials
+
+Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/b26534c65dd3628e518445b8ee97269887c0d3e93ac47ce19f2cac309f375d70)<br>
+Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/tree/master/Day8-22Sep2020)
+--------
