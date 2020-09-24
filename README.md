@@ -23,7 +23,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Minimum **`110`** minutes should attend in **`150` minutes`** session with same login format
 *********************
 
-## Introduction to Data and Data Analysis Using Python (14-Sept-2020)
+## Day01 Introduction to Data and Data Analysis Using Python (14-Sept-2020)
 ## Discussed Concepts:
 
 - Introduction to Data
@@ -38,7 +38,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ******************************************************
 
-## Introduction to Python & Conditional Statements (15-Sept-2020)
+## Day02 Introduction to Python & Conditional Statements (15-Sept-2020)
 
 ## Discussed Concepts:
 - Literate Programming
@@ -153,4 +153,20 @@ Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-
 
 Recorded Video Link -->[Click Here](https://transcripts.gotomeeting.com/#/s/b26534c65dd3628e518445b8ee97269887c0d3e93ac47ce19f2cac309f375d70)<br>
 Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-AB5/tree/master/Day8-22Sep2020)
---------
+
+**********************************************
+
+## Day09 Introduction to Data and Data Analysis Using Python (23-Sept-2020)
+## Discussed Concepts:
+
+- Identifying and Eliminating Outliers
+- Filling missing data
+- Applying on raw dataset and introduction to Kaggle and other data sources
+- Introduction
+- Standardizing Data
+- Data Range
+- Robust Scaling
+
+### Day09 Jupyter Notebook [[.ipynb format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.i), [[.pdf format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.pdf)
+
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/2883b6f9f0e446763c2b48c7738c2f2c004f36b0aea800c99d07017d8a06aba3)
