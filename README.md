@@ -167,6 +167,23 @@ Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-
 - Data Range
 - Robust Scaling
 
-### Day09 Jupyter Notebook [[.ipynb format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.i), [[.pdf format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.pdf)
+### Day09 Jupyter Notebook [[.ipynb format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.ipynb), [[.pdf format]](Day09_23Sept2020/Day09_Cleaning_and_Preprocessing_of_Data.pdf)
 
 ### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/2883b6f9f0e446763c2b48c7738c2f2c004f36b0aea800c99d07017d8a06aba3)
+********
+
+## Day10 Introduction to Visualization and Python packages (24-Sept-2020)
+## Discussed Concepts:
+
+- Normalizing Data
+- Data Imputation
+- Introduction to Plotting
+- Matplotlib history
+- Line Plot
+- Scatter Plot
+- Bar Graph
+
+### Day10 Jupyter Notebook [[.ipynb format]](Day10_24Sept2020/Day10_Data_Visualization_using_Matplotlib.ipynb), [[.pdf format]](Day10_24Sept2020/Day10_Data_Visualization_using_Matplotlib.pdf)
+
+### [[Day10_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/4e699911e863f807d571851003400083d3218527e77134ce6ffcffdc3739ffd7)
+********
