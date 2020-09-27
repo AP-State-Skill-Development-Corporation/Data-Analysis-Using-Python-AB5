@@ -156,7 +156,7 @@ Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-
 
 **********************************************
 
-## Day09 Introduction to Data and Data Analysis Using Python (23-Sept-2020)
+## Day09 Data Preprocessing using Sklearn (23-Sept-2020)
 ## Discussed Concepts:
 
 - Identifying and Eliminating Outliers
