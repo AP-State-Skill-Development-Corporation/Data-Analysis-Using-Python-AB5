@@ -4,14 +4,6 @@
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Data Analysis using Python Online Training during 14-Sept-2020 to 26-Sept-2020 Timings 1 PM to 4 PM
 
-#### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/18fh5a0306kvsr) or → Meeting Id → [261-657-605]
-### Join into Slack channel for doubt clarifications [Click Here to Join](https://join.slack.com/t/apssdc-community/shared_invite/zt-gxi128ev-AXD~7dgejDOFSMdROkN5RQ)
-
-<!--
-### Join into Slack channel for doubt clarifications [Click Here to Join](https://join.slack.com/t/apssdc-community/shared_invite/zt-gxi128ev-AXD~7dgejDOFSMdROkN5RQ)
-
-#### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
--->
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
 Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
@@ -187,3 +179,35 @@ Jupyer Notebook --> [.ipynp File](https://github.com/AP-State-Skill-Development-
 
 ### [[Day10_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/4e699911e863f807d571851003400083d3218527e77134ce6ffcffdc3739ffd7)
 ********
+
+### Day11 Data Visualization using Seaborn (25-Sept-2020)
+### Discussed Concepts:
+
+- Bar Graph
+- Histogram
+- Pie Chart
+- Box Plot
+- Color Palettes
+
+### Day11 Jupyter Notebook [[.ipynb format]](Day11_25Sept2020/Day11_25Sept2020_Matplotlib_Cont.ipynb), [[.pdf format]](Day11_25Sept2020/Day11_25Sept2020_Matplotlib_Cont.pdf)
+
+### [[Day11_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/889af624d66d657c1c53fcdee08344dd027f7f549d9d0e0c7d15ee047ec0c2d0)
+
+*********************************
+
+### Day12 Data Visualization using Seaborn	Using Seaborn Styles (26-Sept-2020)
+### Discussed Concepts:
+
+- Setting the default style
+- stripplot() and swarmplot()
+- boxplot, violinplot
+- Regression Plot
+- barplot, pointplot and countplot
+- Creating heatmap
+- Creating pairplot
+
+### Day12 Jupyter Notebook [[.ipynb format]](Day12_26Sept2020/Day12_26Sept2020_Data_Viz_Seaborn.ipynb), [[.pdf format]](Day12_26Sept2020/Day12_26Sept2020_Data_Viz_Seaborn.pdf)
+
+### [[Day12_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/846d0d6c3eedf175bb4f0400bc2ed35755e60ce23e5c77b49f128aaf92411d47)
+*********************
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
